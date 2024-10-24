@@ -1,1 +1,1 @@
-Este es un archivo de practica para aprender GitHub.
+Segunda linea de texto.
